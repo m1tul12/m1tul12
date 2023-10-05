@@ -14,7 +14,7 @@ I'm a passionate full-stack developer with a love for creating elegant and effic
   
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, JAVA
-- **Database:** MySQL, PostgreSQL
-- **Version Control:** Git, GitHub
+- **Frontend :** HTML, CSS, JavaScript
+- **Backend :** Python, JAVA
+- **Database :** MySQL, PostgreSQL
+- **Version Control :** Git, GitHub
