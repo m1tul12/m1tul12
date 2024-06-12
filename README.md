@@ -17,4 +17,5 @@ I'm a passionate full-stack developer with a love for creating elegant and effic
 - **Frontend :** HTML, XML, CSS, SCSS, JavaScript, JQuery
 - **Backend :** Python
 - **Database :** MySQL, PostgreSQL
+- **ERP :** Odoo
 - **Version Control :** Git, GitHub
